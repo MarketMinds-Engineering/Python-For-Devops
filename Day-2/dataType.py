@@ -1,14 +1,12 @@
 import re
 
-test = "hey my name is prakash"
-chkFor = "prakaaaash"
+myData="hey my name is prakash";
 
-val = re.search(chkFor, test)
+chkWord="prakash"
 
-if val:
-    print("val is: " + val.group())
-else:
-    print(val)
+chkResult=re.match(chkword,myData);
 
+
+if()
 
 
