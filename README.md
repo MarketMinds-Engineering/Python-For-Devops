@@ -1,5 +1,20 @@
 # PythonForDevops
 
+## Topic in 1 Line
+
+1. Formatted String Literals (f-strings)
+2. CharAt (Indexing a String)
+3. Upper and Lower Case
+4. Strip (Removing Leading and Trailing Whitespaces)
+5. Replace
+6. Split and Join
+7. in and not in
+8. int ,float ,abs,round,math 
+9. function ,module,package
+10. Command Line Args & Env Vars
+
+
+
 ## Day 1: Introduction to Python, Installation, and Configuration
 - Introduction to Python and its role in DevOps.
 - Installing Python and setting up a development environment.
@@ -98,3 +113,14 @@
 
 ## Day 17: Python Interview Questions & Answers
 - Advanced Level
+
+
+
+
+
+
+
+
+
+
+
