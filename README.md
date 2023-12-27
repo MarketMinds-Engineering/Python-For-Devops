@@ -12,6 +12,8 @@
 8. int ,float ,abs,round,math 
 9. function ,module,package
 10. Command Line Args & Env Vars
+11. list and tupple and there properties
+
 
 
 
